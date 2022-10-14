@@ -119,6 +119,5 @@ class MyLinkedList {
             currentNode.next = null;    
             this.size--;
         }
-        
     }
 }
